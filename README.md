@@ -1,7 +1,7 @@
-# Machine-Learning
+# Machine-Learning Projects
 
 
-Sales Forecasting:
+1)Sales Forecasting:
      
      Linear Regression Model:
          
@@ -10,7 +10,7 @@ Sales Forecasting:
     
     
 
-Loan Prediction:
+2)Loan Prediction:
      
      Logistic Regression Model:
     
@@ -20,13 +20,13 @@ Loan Prediction:
 
 
 
-Customer Segmentation:
+3)Customer Segmentation:
 
-           K-Means clustering:
+          (i) K-Means clustering:
                   K-Means Clustering is an Unsupervised Machine Learning algorithm, which groups the unlabeled dataset into different clusters. The article aims to explore the fundamentals and working of k mean 
                   clustering along with the implementation.
 
-          Random Forest classification :
+        (ii)  Random Forest classification :
 
                         Random forests are a popular supervised machine learning algorithm.
                         Random forests are for supervised machine learning, where there is a labeled target variable.
@@ -34,13 +34,13 @@ Customer Segmentation:
                         Random forests are an ensemble method, meaning they combine predictions from other models.
                         Each of the smaller models in the random forest ensemble is a decision tree.
 
-          Supply Vector Machines:
+        (iii)  Supply Vector Machines:
 
                     Support Vector Machine (SVM) is a supervised machine learning algorithm used for both classification and regression. Though we say regression problems as well it’s best suited for 
                     classification. The main objective of the SVM algorithm is to find the optimal hyperplane in an N-dimensional space that can separate the data points in different classes in the feature space.
 
 
-          Decision Tree:
+       (iv)   Decision Tree:
 
                     A decision tree in machine learning is a versatile, interpretable algorithm used for predictive modelling. It structures decisions based on input data, making it suitable for both 
                     classification and regression tasks.
