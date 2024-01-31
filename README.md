@@ -14,4 +14,15 @@ For example, we have two classes Class 0 and Class 1 if the value of the logisti
 
 
 
-Customer Segmentation
+Customer Segmentation:
+
+K-Means clustering:
+    K-Means Clustering is an Unsupervised Machine Learning algorithm, which groups the unlabeled dataset into different clusters. The article aims to explore the fundamentals and working of k mean clustering along with the implementation.
+
+Random Forest :
+
+Random forests are a popular supervised machine learning algorithm.
+Random forests are for supervised machine learning, where there is a labeled target variable.
+Random forests can be used for solving regression (numeric target variable) and classification (categorical target variable) problems.
+Random forests are an ensemble method, meaning they combine predictions from other models.
+Each of the smaller models in the random forest ensemble is a decision tree.
